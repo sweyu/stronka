@@ -11,5 +11,5 @@ function goToMain() {
     window.location.href = "downloads.html"
   }
   function goToChat() {
-    window.location.href = "downloads.html"
+    window.location.href = "chat.html"
   }
