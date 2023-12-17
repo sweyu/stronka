@@ -10,3 +10,6 @@ function goToMain() {
   function goToDownloads() {
     window.location.href = "downloads.html"
   }
+  function goToChat() {
+    window.location.href = "downloads.html"
+  }
